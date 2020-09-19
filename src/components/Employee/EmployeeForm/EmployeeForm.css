@@ -1,0 +1,6 @@
+.EmployeeForm  {
+    border: 2px solid rgb(187, 145, 235);
+    padding: 16px !important;
+    margin: 16px !important;
+    box-shadow: 2px 1px 2px 1px #ccc;
+}
